@@ -308,5 +308,16 @@ For more info follow [contributing guidelines](CONTRIBUTING.md).
         />
       </a>
     </td>
+    <td>
+      <a href="https://en.wikipedia.org/wiki/Cat" target="_blank"
+        ><img
+          src="[https://avatars.githubusercontent.com/u/1826433?v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sheba1.JPG/800px-Sheba1.JPG)"
+          width="75"
+          alt="All cats! The hate us but we love them :)"
+          valign="middle"
+          style="border-radius: 50%"
+        />
+      </a>
+    </td>
   </tr>
 </table>
